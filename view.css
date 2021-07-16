@@ -1,0 +1,71 @@
+body{
+	background-image: url(BG1.jpg);
+	background-size: 100%;
+	color: white;
+}
+table {
+	margin-top: 30px;
+border-collapse: collapse;
+width: 80%;
+color: black;
+font-family: monospace;
+font-size: 20px;
+text-align: center;
+margin-left: 130px;
+}
+th {
+background-color: black;
+color: white;
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+tr:nth-child(odd) {
+	background-color: darkgrey;
+}
+.navbar{
+	background-color: #382f6a;
+	height: 80px;
+}
+.menu{
+	margin-left: 220px;
+}
+.nav-link{
+	width: 140px;
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 10px;
+	text-align: center;
+}
+.opt{
+	margin-top: 30px;
+}
+.send{
+	background: transparent;
+	margin-left: 600px;
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border-color: black;
+	text-align: center;
+}
+.send:hover{
+	background-color: darkgrey;
+}
+.cust,.trans,.hist{
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-bottom: 12px;
+	border-color: black;
+	font-size: 20px;
+}
+.content{
+	margin-left: 40%;
+	margin-top: 50px;
+}
+#cont:hover{
+	background-color: darkgrey;
+}

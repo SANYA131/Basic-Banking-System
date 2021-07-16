@@ -1,0 +1,62 @@
+body{
+	background-color: lightskyblue;
+	background-size: 100%;
+}
+.navbar{
+	background-color: #382f6a;
+	height: 80px;
+}
+.menu{
+	margin-left: 220px;
+}
+.nav-link{
+	width: 140px;
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 10px;
+	text-align: center;
+}
+.bank{
+	margin-top: 70px;
+	width: 630px;
+	height: 587px;
+	margin-left: 38px;
+}
+.vision{
+	margin-top: 100px;
+	margin-left: -60px;
+	text-align: center;
+}
+.sub{
+	margin-bottom: -50px;
+}
+.help{
+	margin-top: 150px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 50px;
+}
+.queries{
+	font-family: cursive;
+	text-align: center;
+	margin-top: 30px;
+}
+.ava{
+	text-align: center;
+	font-family: monospace;
+	margin-top: 20px;
+}
+.cont{
+	margin-top: 50px;
+	margin-left: 120px;
+}
+.btn{
+	margin-right: 50px;
+}
+.btn-primary,.btn-warning, .btn-danger{
+	width: 350px;
+	height: 130px;
+	font-size: 20px;
+	font-family: monospace;
+
+}

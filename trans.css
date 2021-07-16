@@ -1,0 +1,68 @@
+body{
+	background-image: url(BG1.jpg);
+	background-size: 100%;
+	color: white;
+}
+.navbar{
+	background-color: #382f6a;
+	height: 80px;
+}
+.menu{
+	margin-left: 220px;
+}
+.nav-link{
+	width: 140px;
+	font-size: 20px;
+	font-family: Arial;
+	margin-top: 10px;
+	text-align: center;
+}
+form{
+	margin-top:50px;
+}
+input{
+	width: 450px;
+	border-radius: 5px;
+	height: 34px;
+	border-color: darkgrey;
+	border-width: 1px;
+}
+
+.send{
+	background: transparent;
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border-color: black;
+	text-align: center;
+}
+.send:hover{
+	background-color: darkgrey;
+}
+input:hover{
+	border: none;
+}
+h3{
+	margin-top: 150px;
+	font-family: Times New Roman;
+	text-shadow: 0 0 5px black,0 0 5px black;
+	color: white;
+	font-size: 55px;
+}
+
+.content{
+	margin-top: 50px;
+}
+.cust,.trans,.hist{
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-bottom: 12px;
+	border-color: black;
+	font-size: 20px;
+}
+#cont:hover{
+	background-color: darkgrey;
+}
